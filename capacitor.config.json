@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.ecommersesanity_bryan",
+    "appName": "ecommercesanity_bryan",
+    "bundledWebRuntime" : false,
+    "npmClient": "npm",
+    "webDDir": "build",
+    "cordova": {}
+}
